@@ -2,7 +2,7 @@
 
 Hey there 👋,
 
-* 👨‍🎓 I am currently in a Bachelor’s Design of application developer at DOranco in Nantes 🇫🇷.
+* 👨‍🎓 I am currently in a Bachelor’s Design of application developer at Doranco in Nantes 🇫🇷.
 
 * 💻 I'm a Full-Stack developer with an interest in front and back-end technologies. Check out my portfolio [here](https://tchoup7790.github.io) !
 
