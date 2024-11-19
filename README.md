@@ -4,7 +4,7 @@ Hey there 👋,
 
 * 👨‍🎓 I am currently in a Bachelor’s Design of application developer at Doranco in Nantes 🇫🇷.
 
-* 💻 I'm a Full-Stack developer with an interest in front and back-end technologies. Check out my portfolio [here](https://tchoup7790.github.io) !
+* 💻 I'm a Full-Stack developer with an interest in front and back-end technologies. Check out my portfolio [here](https://brokolo.vercel.app/) !
 
 * 💼 Currently on the lookout for an internship opportunity, so if you're interested, shoot me an [email](mailto:juliojuliobaptiste@gmail.com?subject=[GitHub]%20Work-Study%20placement) ✉️ !
 
