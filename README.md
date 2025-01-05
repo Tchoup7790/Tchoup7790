@@ -1,7 +1,5 @@
 <img src="./name.png" align="center" />
 
-<br>
-
 ## Hi I'm Baptiste 👋,
 
 <br>
@@ -13,9 +11,13 @@
 * 💼 Currently working as a web development student for [Peek'In](https://peekin.me/) !
 
 <br>
+<br>
 
 <div align="center">
 	<img src="https://badges.pufler.dev/repos/tchoup7790" />
-	<img src="https://badges.pufler.dev/visits/tchoup7790/tchoup7790" />
+ 	<img src="https://badges.pufler.dev/years/tchoup7790" />
+  	<img src="https://badges.pufler.dev/visits/tchoup7790/tchoup7790" />
+</div>
+<div align="center">
 	<img src="https://badges.pufler.dev/commits/monthly/tchoup7790" />
 </div>
