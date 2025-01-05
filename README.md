@@ -1,6 +1,10 @@
-# About Me
+<img src="./name.png" align="center" />
 
-Hey there 👋,
+<br>
+
+## Hi I'm Baptiste 👋,
+
+<br>
 
 * 👨‍🎓 I am currently in a Bachelor’s Design of application developer at Doranco in Nantes 🇫🇷.
 
@@ -8,9 +12,10 @@ Hey there 👋,
   
 * 💼 Currently working as a web development student for [Peek'In](https://peekin.me/) !
 
----
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tchoup7790&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/Tchoup7790/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tchoup7790&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/Tchoup7790/github-readme-stats#gh-light-mode-only)
+<br>
 
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchoup7790&hide_progress=true&show&icons=true&theme=default#gh-light-mode-only)](https://github.com/Tchoup7790/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchoup7790&hide_progress=true&show&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tchoup7790/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+	<img src="https://badges.pufler.dev/repos/tchoup7790" />
+	<img src="https://badges.pufler.dev/visits/tchoup7790/tchoup7790" />
+	<img src="https://badges.pufler.dev/commits/monthly/tchoup7790" />
+</div>
