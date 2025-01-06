@@ -19,5 +19,5 @@
   	<img src="https://badges.pufler.dev/visits/tchoup7790/tchoup7790" />
 </div>
 <div align="center">
-	<img src="https://badges.pufler.dev/commits/monthly/tchoup7790" />
+	<img src="https://badges.pufler.dev/commits/all/tchoup7790" />
 </div>
