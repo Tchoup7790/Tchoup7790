@@ -1,7 +1,5 @@
-Hi, I'm Baptiste,
+Hi, I'm Tchoup7790,
 
-I am currently in a Master of Data and Artificial Intelligence in Nantes.
+I am currently in a Master of Data and Artificial Intelligence in France.
 
-I'm a Full-Stack developer. Check my portfolio [here](https://brokolo.vercel.app/).
-
-Currently working as a web development for [Peek'In](https://peekin.me/).
+I'm now on [Codeberg](https://codeberg.org/tchop)
